@@ -1,0 +1,15 @@
+[
+    {
+      "id": "1",
+      "name": "Argan Oil Shampoo",
+      "category": "Shampoo",
+      "price": 15.99
+    },
+    {
+      "id": "2",
+      "name": "Silk Hair Extension",
+      "category": "Extensions",
+      "price": 120.00
+    }
+  ]
+  
